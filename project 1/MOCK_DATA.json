@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Amit",
+    "last_name": "Sharma",
+    "email": "amit@example.com",
+    "gender": "Male",
+    "job_title": "Developer"
+  },
+  {
+    "id": 2,
+    "first_name": "Priya",
+    "last_name": "Verma",
+    "email": "priya@example.com",
+    "gender": "Female",
+    "job_title": "Designer"
+  },
+  {
+    "id": 3,
+    "first_name": "Rahul",
+    "last_name": "Singh",
+    "email": "rahul@example.com",
+    "gender": "Male",
+    "job_title": "Tester"
+  },
+  {
+    "id": 4,
+    "first_name": "Sneha",
+    "last_name": "Patel",
+    "email": "sneha@example.com",
+    "gender": "Female",
+    "job_title": "Frontend Developer"
+  },
+  {
+    "id": 5,
+    "first_name": "Arjun",
+    "last_name": "Mehta",
+    "email": "arjun@example.com",
+    "gender": "Male",
+    "job_title": "Backend Developer"
+  },
+  {
+    "id": 6,
+    "first_name": "Neha",
+    "last_name": "Kapoor",
+    "email": "neha@example.com",
+    "gender": "Female",
+    "job_title": "Product Manager"
+  },
+  {
+    "id": 7,
+    "first_name": "Karan",
+    "last_name": "Joshi",
+    "email": "karan@example.com",
+    "gender": "Male",
+    "job_title": "DevOps Engineer"
+  },
+  {
+    "id": 8,
+    "first_name": "Isha",
+    "last_name": "Nair",
+    "email": "isha@example.com",
+    "gender": "Female",
+    "job_title": "UI Designer"
+  },
+  {
+    "id": 9,
+    "first_name": "Vikram",
+    "last_name": "Rao",
+    "email": "vikram@example.com",
+    "gender": "Male",
+    "job_title": "Data Analyst"
+  },
+  {
+    "id": 10,
+    "first_name": "Pooja",
+    "last_name": "Malhotra",
+    "email": "pooja@example.com",
+    "gender": "Female",
+    "job_title": "QA Engineer"
+  }
+]
