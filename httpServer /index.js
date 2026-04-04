@@ -59,3 +59,11 @@ http.createServer((req, res) => {
 
   res.end("Done");
 }).listen(4000);
+
+
+
+// htttp method 
+//  GET -> Fetch something , want to read something not modify anything [library system -> localhost/api/get-books-by-author]
+// POST -> you need to create something new [createProduct -> json body / form-data]
+// PUT -> updateProductYName -> or id ,(json or form-data)
+// DELETE -> to delete  something 
