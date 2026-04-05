@@ -30,5 +30,4 @@ app.get("/api/users/:id", (req, res) => {
     return res.json(user);
 });
 
-
 app.listen(port, () => console.log(`Server running at port ${port}`));
