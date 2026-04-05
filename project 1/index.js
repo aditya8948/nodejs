@@ -17,6 +17,9 @@ app.get("/users", (req, res) => {
     return res.send(html);
 });
 
+console.log("121");
+
+
 
 app.get("/api/users", (req, res) => {
   return res.json(users);
